@@ -13,6 +13,9 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 - Avoid large branches which diverge significantly from the `main` branch. Merge frequently with each new feature to maintain capability.
 - Try and include test modules for key features. We are typically poor at this, but it will be beneficial for a large and complex toolchain.
 
+#### Discussion points
+- Should the aerodynamic repos (panel method, CFD, and gradients) be combined into a single repo? Pros: simplicity when coding. Cons: Requires more strict git workflow adhereance to prevent merge conflicts. Leadning towards mutliple smaller repos as we are not git masters.
+
 ### Key Repos
 Progress checkmarks below
 
