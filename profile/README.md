@@ -1,4 +1,4 @@
-## Co-design at UniSQ 👋
+## Co-design at UniSQ ✈️
 
 __Tools for co-design developed by UniSQ and collaborators (under construction)__
 
