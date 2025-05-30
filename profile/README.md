@@ -15,7 +15,7 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 
 ### Key Repos
 
-#### (`hyperVehicle`)[https://github.com/codesign-at-usq/hyperVehicle]
+#### [`hyperVehicle`](https://github.com/codesign-at-usq/hyperVehicle)
 _Parameter-based geometry generation and differentation_
 
 #### `hyperPanel`
