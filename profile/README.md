@@ -15,14 +15,14 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 - Any breaking changes which affect existing APIs shuold be clearly communicated with the group.
 
 #### Discussion points
-- Should the aerodynamic repos (panel method, CFD, and gradients) be combined into a single repo? Pros: simplicity when coding. Cons: Requires more strict git workflow adhereance to prevent merge conflicts. Leadning towards mutliple smaller repos as we are not git masters.
+- Should the aerodynamic repos (panel method, CFD, and gradients) be combined into a single repo? Pros: simplicity when coding. Cons: Requires more strict git workflow adhereance to prevent merge conflicts. Leaning towards mutliple smaller repos as we are not git masters.
 
 ### Key Repos
 Progress checkmarks below
 
 #### [`hyperVehicle`](https://github.com/codesign-at-usq/hyperVehicle)
 _Parameter-based geometry generation and differentation_
-- [x] Import from previous organisation
+- [ ] Import from previous organisation
 
 #### `hyperPanel`
 _Fast and efficient approximate panel method for hypersonic aerodynamics and surface flow properties_
