@@ -47,7 +47,7 @@ _Data-agnostic surrogate modelling tools (i.e. aerodeck surface fitting)_
 - [ ] Wrap in `pip` package
 
 #### `hyperDynamics`
-_Common classes and functions for creating and transcribing hypersonic flight dynamics suitable for optimal control solutions_
+_Common classes and functions for creating and transcribing hypersonic flight dynamics suitable for optimal control solutions usinc `CasADi`_
 - [ ] Tidy and import from Andy's previous repo
 
 #### `cdTools`
