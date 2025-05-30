@@ -35,11 +35,11 @@ _Flow-solution-agnostic aerodynamic sensitivities using efficinet panel method d
 _Python wrappers for automated hypersonic CFD simulations_
 - [ ] Create minimal working repo
 
-#### 'hyperTherm'
+#### `hyperTherm`
 _Differentiable heat transfer and reduced-order thermal models for hypersonic vehicles_
 - [ ] Crate minimal working repo
 
-#### 'smTools`
+#### `smTools`
 _Data-agnostic surrogate modelling tools (i.e. aerodeck surface fitting)_
 - [ ] Tidy and import from Andy's previous repo
 - [ ] Wrap in `pip` package
