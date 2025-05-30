@@ -4,8 +4,8 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 
 ### Key Info
 - This organsation holds re-usable and generic repos and packages used in the development of co-design and MDO toolchains.
-- It is currently administered by Ingo Jahn and Andy Lock,
 - It is _not_ the place for spefic case studies and co-design implementations. Completed and verified examples, which may be of use to new members, may be stored after discussion with Ingo and Andy
+- It is currently administered by Ingo Jahn and Andy Lock,
 
 #### Development principles
 - Various elements in the toolchain should interface with Python APIs. Where different launagues are required (bash/C++), ideally they have a Python API wrapper.
