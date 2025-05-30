@@ -8,8 +8,8 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 - It is currently administered by Ingo Jahn and Andy Lock,
 
 #### Development principles
-- Various elements in the toolchain should interface with Python APIs. Where different launagues are required (bash/C++), ideally they have a Python API wrapper.
-- Pip packages are preferred. They can be installed in editable form (`pip install -e <REPO>`) for development
+- Pease ensure Python code is formatted per PEP8. This isn't hard - tools like [Black](https://github.com/psf/black) make a lot of this a one-line command.
+- Repos should be structed as `pip` packages (unless not possible), and installed as editable (`pip install -e <REPO>`)
 - Avoid large branches which diverge significantly from the `main` branch. Merge frequently with each new feature to maintain capability.
 - Try and include test modules for key features. We are typically poor at this, but it will be beneficial for a large and complex toolchain.
 
