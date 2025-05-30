@@ -15,29 +15,29 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 
 ### Key Repos
 
-#### `hyperVehicle`
-Parameter-based geometry generation and differentation
+#### (`hyperVehicle`)[https://github.com/codesign-at-usq/hyperVehicle]
+_Parameter-based geometry generation and differentation_
 
 #### `hyperPanel`
-Fast and efficient approximate panel method for hypersonic aerodynamics and surface flow properties
+_Fast and efficient approximate panel method for hypersonic aerodynamics and surface flow properties_
 
 #### `hyperGrad`
-Flow-solution-agnostic aerodynamic sensitivities using efficinet panel method derivatives
+_Flow-solution-agnostic aerodynamic sensitivities using efficinet panel method derivatives_
 
 #### `hyPyCFD`
-Python wrappers for automated hypersonic CFD simulations 
+_Python wrappers for automated hypersonic CFD simulations_
 
 #### 'hyperTherm'
-Differentiable heat transfer and reduced-order thermal models for hypersonic vehicles
+_Differentiable heat transfer and reduced-order thermal models for hypersonic vehicles_
 
 #### 'smTools`
-Data-agnostic surrogate modelling tools (i.e. aerodeck surface fitting)
+_Data-agnostic surrogate modelling tools (i.e. aerodeck surface fitting)_
 
 #### `hyperDynamics`
-Common classes and functions for creating and transcribing hypersonic flight dynamics suitable for optimcal control solutions
+_Common classes and functions for creating and transcribing hypersonic flight dynamics suitable for optimcal control solutions_
 
 #### `cdTools`
-A selection of tools for constructing, running, and analysing co-design simulations.
+_A selection of tools for constructing, running, and analysing co-design simulations_
 
 ## Publication List
 - Lock, A., Oberman, G., Jahn, I. H., van der Heide, C., Bone, V., Dower, P. M., & Manzie, C. (2025). Hypersonic glide vehicle shape and trajectory co-design. In AIAA SCITECH 2025 Forum (p. 1337).
