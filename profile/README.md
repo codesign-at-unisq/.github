@@ -10,7 +10,7 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 #### Development principles
 - Pease ensure Python code is formatted per PEP8. This isn't hard - tools like [Black](https://github.com/psf/black) make a lot of this a one-line command.
 - Repos should be structed as `pip` packages with relevant dependencies (unless not possible), and installed as editable (`pip install -e path/to/repo`). Please clearly state any other system dependencies with suggested install commands.
-- Avoid large branches which diverge significantly from the `main` branch. Merge frequently with each new feature to maintain capability.
+- Avoid large branches which diverge significantly from the main branch. Merge frequently with each new feature to maintain capability.
 - Try and include test modules for key features. We are typically poor at this, but it will be beneficial for a large and complex toolchain.
 - Any breaking changes which affect existing APIs shuold be clearly communicated with the group.
 - Err on side of low level functions, expecting the user to call mutliple functions to peform a task. This provides flexibility and modularity to the code.
