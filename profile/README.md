@@ -22,11 +22,13 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 ### Key Repos
 Progress checkmarks below
 
+
 #### [`hyperVehicle`](https://github.com/codesign-at-usq/hyperVehicle)
 _Parameter-based geometry generation and differentation_
 
 Suggested owner: Ingo
 - [ ] Import from previous organisation
+
 
 #### `hyperPanel`
 _Fast and efficient approximate panel method for hypersonic aerodynamics and surface flow properties_
@@ -34,11 +36,13 @@ _Fast and efficient approximate panel method for hypersonic aerodynamics and sur
 Suggested owner: Amir
 - [ ] Seperate form old `PySAGAS` package and provide minimal documentation
 
+
 #### `hyperGrad`
 _Flow-solution-agnostic aerodynamic sensitivities using efficinet panel method derivatives_
 
 Suggested owner: Amir
 - [ ] Seperate form old `PySAGAS` package and provide minimal documentation
+
 
 #### `hyPyCFD`
 _Python wrappers for automated hypersonic CFD simulations_
@@ -46,16 +50,19 @@ _Python wrappers for automated hypersonic CFD simulations_
 Suggested owner: Rob
 - [ ] Create minimal working repo
 
+
 #### `hyperTherm`
 _Differentiable heat transfer and reduced-order thermal models for hypersonic vehicles_
 
 Suggested owner: Saurav
 - [ ] Crate minimal working repo
 
+
 #### 'hyperEngine'
 __Propulsion models for hypersonic vehicles - both air-breathing and non air-breathing.__
 
 Suggested owner: Amir
+
 
 #### `smTools`
 _Data-agnostic surrogate modelling tools (i.e. aerodeck surface fitting)_
@@ -64,11 +71,13 @@ Suggested owner: Andy initially (?)
 - [ ] Tidy and import from Andy's previous repo
 - [ ] Wrap in `pip` package
 
+
 #### `hyperDynamics`
 _Common classes and functions for creating and transcribing hypersonic flight dynamics suitable for optimal control solutions using [CasADi](https://web.casadi.org/)_
 
 Suggested owner: Andy + Jack
 - [ ] Tidy and import from Andy's previous repo
+
 
 #### `cdTools`
 _A selection of tools for constructing, running, and analysing co-design simulations_
@@ -76,6 +85,7 @@ _A selection of tools for constructing, running, and analysing co-design simulat
 Suggested owner: All co-design group
 - [ ] Tidy and import from Andy's previous repo
 - [ ] Wrap in `pip` package
+
 
 ## Publication List
 - Lock, A., Oberman, G., Jahn, I. H., van der Heide, C., Bone, V., Dower, P. M., & Manzie, C. (2025). Hypersonic glide vehicle shape and trajectory co-design. In AIAA SCITECH 2025 Forum (p. 1337).
