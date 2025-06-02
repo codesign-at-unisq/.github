@@ -13,6 +13,7 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 - Avoid large branches which diverge significantly from the `main` branch. Merge frequently with each new feature to maintain capability.
 - Try and include test modules for key features. We are typically poor at this, but it will be beneficial for a large and complex toolchain.
 - Any breaking changes which affect existing APIs shuold be clearly communicated with the group.
+- Err on side of low level functions, expecting the user to call mutliple functions to peform a task. This provides flexibility and modularity to the code.
 - Use of GitHub issues and discussion on individual repos is encouraged. It provides a record of discussion and changes for everyone in the co-design group.
 
 #### Discussion points
