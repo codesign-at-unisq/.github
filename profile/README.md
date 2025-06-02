@@ -33,14 +33,14 @@ Suggested owner: Ingo
 #### `hyperPanel`
 _Fast and efficient approximate panel method for hypersonic aerodynamics and surface flow properties_
 
-Suggested owner: Amir
+Suggested owner: Amir + Ingo
 - [ ] Seperate form old `PySAGAS` package and provide minimal documentation
 
 
 #### `hyperGrad`
 _Flow-solution-agnostic aerodynamic sensitivities using efficinet panel method derivatives_
 
-Suggested owner: Amir
+Suggested owner: Amir + Ingo
 - [ ] Seperate form old `PySAGAS` package and provide minimal documentation
 
 
