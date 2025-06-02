@@ -24,6 +24,7 @@ Progress checkmarks below
 
 #### [`hyperVehicle`](https://github.com/codesign-at-usq/hyperVehicle)
 _Parameter-based geometry generation and differentation_
+
 Suggested owner: Ingo
 - [ ] Import from previous organisation
 
