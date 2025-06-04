@@ -15,6 +15,7 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 - Any breaking changes which affect existing APIs shuold be clearly communicated with the group.
 - Err on side of low level functions, expecting the user to call mutliple functions to peform a task. This provides flexibility and modularity to the code.
 - Use of GitHub issues and discussion on individual repos is encouraged. It provides a record of discussion and changes for everyone in the co-design group.
+- Angles should be in radians unless otherwise explicitely stated (variable names appended _deg).
 
 #### Discussion points
 - Should the aerodynamic repos (panel method, CFD, and gradients) be combined into a single repo? Pros: simplicity when coding. Cons: Requires more strict git workflow adhereance to prevent merge conflicts. Leaning towards mutliple smaller repos as we are not git masters.
@@ -58,8 +59,8 @@ Suggested owner: Saurav
 - [ ] Crate minimal working repo
 
 
-#### 'hyperEngine'
-__Propulsion models for hypersonic vehicles - both air-breathing and non air-breathing.__
+#### 'hyperPro'
+_Propulsion models for hypersonic vehicles - both air-breathing and non air-breathing._
 
 Suggested owner: Amir
 
