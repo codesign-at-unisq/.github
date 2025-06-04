@@ -3,29 +3,29 @@
 _Tools for co-design developed by UniSQ and collaborators (under construction)_
 
 ### Key Info
-- This organsation holds re-usable and generic repos and packages used in the development of co-design and MDO toolchains.
+- This organisation holds re-usable and generic repos and packages used in the development of co-design and MDO toolchains.
 - It is _not_ the place for spefic case studies and co-design implementations. Completed and verified examples, which may be of use to new members, may be stored after discussion with Ingo and Andy
 - It is currently administered by Ingo Jahn and Andy Lock.
 
 #### Development principles
 - Pease ensure Python code is formatted per PEP8. This isn't hard - tools like [Black](https://github.com/psf/black) make a lot of this a one-line command.
-- Repos should be structed as `pip` packages with relevant dependencies (unless not possible), and installed as editable (`pip install -e path/to/repo`). Please clearly state any other system dependencies with suggested install commands.
+- Repos should be strutted as `pip` packages with relevant dependencies (unless not possible), and installed as editable (`pip install -e path/to/repo`). Please clearly state any other system dependencies with suggested install commands.
 - Avoid large branches which diverge significantly from the main branch. Merge frequently with each new feature to maintain capability.
 - Try and include test modules for key features. We are typically poor at this, but it will be beneficial for a large and complex toolchain.
-- Any breaking changes which affect existing APIs shuold be clearly communicated with the group.
-- Err on side of low level functions, expecting the user to call mutliple functions to peform a task. This provides flexibility and modularity to the code.
+- Any breaking changes which affect existing APIs should be clearly communicated with the group.
+- Err on side of low level functions, expecting the user to call multiple functions to perform a task. This provides flexibility and modularity to the code.
 - Use of GitHub issues and discussion on individual repos is encouraged. It provides a record of discussion and changes for everyone in the co-design group.
-- Angles should be in radians unless otherwise explicitely stated (variable names appended _deg).
+- Angles should be in radians unless otherwise explicitly stated (variable names appended _deg).
 
 #### Discussion points
-- Should the aerodynamic repos (panel method, CFD, and gradients) be combined into a single repo? Pros: simplicity when coding. Cons: Requires more strict git workflow adhereance to prevent merge conflicts. Leaning towards mutliple smaller repos as we are not git masters.
+- Should the aerodynamic repos (panel method, CFD, and gradients) be combined into a single repo? Pros: simplicity when coding. Cons: Requires more strict git workflow adherence to prevent merge conflicts. Leaning towards multiple smaller repos as we are not git masters.
 
 ### Key Repos
 Progress checkmarks below
 
 
 #### [`hyperVehicle`](https://github.com/codesign-at-usq/hyperVehicle)
-_Parameter-based geometry generation and differentation_
+_Parameter-based geometry generation and differentiation_
 
 Suggested owner: Ingo
 - [ ] Import from previous organisation
@@ -39,7 +39,7 @@ Suggested owner: Amir + Ingo
 
 
 #### `hyperGrad`
-_Flow-solution-agnostic aerodynamic sensitivities using efficinet panel method derivatives_
+_Flow-solution-agnostic aerodynamic sensitivities using efficient panel method derivatives_
 
 Suggested owner: Amir + Ingo
 - [ ] Seperate form old `PySAGAS` package and provide minimal documentation
