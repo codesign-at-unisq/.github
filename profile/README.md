@@ -24,17 +24,19 @@ _Tools for co-design developed by UniSQ and collaborators (under construction)_
 Progress checkmarks below
 
 
-#### [`hyperVehicle`](https://github.com/codesign-at-usq/hyperVehicle)
+#### [`hyperVehicle`](https://github.com/codesign-at-unisq/hypervehicle2)
 _Parameter-based geometry generation and differentiation_
 
-Suggested owner: Ingo
-- [ ] Import from previous organisation
+Suggested owner: Ingo + Bradley
+- [x] Import from previous organisation
+- [ ] Create documentation
+- [ ] Expand capabilities to include multi-comonent vehicles.
 
 
 #### `hyperPanel`
 _Fast and efficient approximate panel method for hypersonic aerodynamics and surface flow properties_
 
-Suggested owner: Amir + Ingo
+Suggested owner: Bradley + Robert
 - [ ] Seperate form old `PySAGAS` package and provide minimal documentation
 
 
